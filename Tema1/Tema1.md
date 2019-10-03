@@ -1,5 +1,5 @@
 ## Tema 1
-  Ejercicio   | Descripción
+  Ejercicios   | Descripción
 ------------- | ------------
  [Ejercicio 1](Ejercicio1.html)  | Página web sencilla.
  [Ejercicio 2](Ejercicio2.xml)  | Documento xml que incluye informacion sobre una librería.
