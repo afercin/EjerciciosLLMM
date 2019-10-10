@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE biblioteca>
-<biblioteca> 
+<!DOCTYPE libreria>
+<libreria> 
 	<ejemplar tipo_ejem="libro" titulo="XML practico" editorial="Ediciones Eni">
 		<tipo> 
 			<libro isbn="978‐2‐7460‐4958‐1" edicion="1" paginas="347"></libro>
@@ -24,4 +24,4 @@
 			<fecha_pres dia="12" mes="ene" año="2010"></fecha_pres> 
 		</prestado>
 	</ejemplar>
-</biblioteca>
+</libreria>
