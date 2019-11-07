@@ -14,3 +14,6 @@
  [Ejercicio 3](Tema2/Ejercicio3.html)  | Página web que usa etiquetas &lt;strong&gt; y &lt;br/&gt;.
  [Ejercicio 4](Tema2/Ejercicio4.html)  | Página web con caracteres especiales.
  [Ejercicio 5](Tema2/ejercicio5/misitio.com/index.html)  | Página web con enlances.
+ [Ejercicio 6](Tema2/ejercicio6.html)  | Página web con enlances y pie de página.
+ [Ejercicio 7](Tema2/ejercicio7.html)  | Página web con una lista anidada.
+ [Ejercicio 8](Tema2/ejercicio8.html)  | Página web con varias listas anidadas con diferentes estilos.
