@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <style>
+      h1 { border-style: solid; }
+      #C1 { border-color: lightblue }
+      #C2 { border-color: red; }
+      #C3 { border-color: green }
+      #C4 { border-color: brown }
+      #p1 { border-style: dotted }
+      #p2 { border-style: intert }
+      #p3 { border-style: double; }
+      #p4 { border-style: inset; }
+    </style>
+  </head>
+  <body>
+
+    <h1 id="C1">Parrafo 1</h1>
+    <p id="p1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    <h1 id="C2">Parrafo 2</h1>
+    <p id="p2"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    <h1 id="C3">Parrafo 3</h1>
+    <p id="p3"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+    <h1 id="C4">Parrafo 4</h1>
+    <p id="p4"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
+    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+  </body>
+</html>
