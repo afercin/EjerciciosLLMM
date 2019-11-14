@@ -1,0 +1,8 @@
+#C1 { border-style: dotted; }
+#C2 { border-style: dashed; }
+#C3 { border-style: double; }
+#C4 { border-style: inset; }
+#p1 { margin: 0px; padding: 50px; }
+#p2 { margin: 30px; padding: 0px; }
+#p3 { margin: 50px; padding: 30px; }
+#p4 { margin: 30px; padding: 50px; }
