@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Horario ASIR</title>
+    <style>
+    table { border-collapse:collapse; }
+    td, th { border: 1px solid;}
+    th { padding: 5px; text-align:center;}
+    </style>
+  </head>
+  <body>
+    <h1> Resultado de la busqueda </h1>
+    <table>
+      <tr>
+        <th> Imagen </th>
+        <th> Datos </th>
+      </tr>
+      <tr>
+        <td> <img src="Images/portatil.png" alt="Portátil"> </td>
+        <td>Portátil 3 GH - 4GB RAM <br/>Comprar: <del>2900 €</del> 2599 € </td>
+      </tr>
+      <tr>
+        <td> <img src="Images/videocamara.png" alt="Videocámara"> </td>
+        <td>Videocámara - Alta definición 1080p - 60 <br/>GB<br/>Comprar:  <del>1099 €</del> 999 €</td>
+      </tr>
+      <tr>
+        <td> <img src="Images/tv.png alt="TV"> </td>
+        <td> Televisor - 40'' - Full HD <br/>Comprar: <del>1999 €</del> 1799 €</td>
+      </tr>
+      <tr>
+        <td> <img src="Images/movil.png alt="Móvil"> </td>
+        <td> Móvil - 3G - WiFi - 8 GB <br/>Comprar: <del>399 €</del> 349 €</td>
+      </tr>
+    </table>
+  </body>
+</html>
