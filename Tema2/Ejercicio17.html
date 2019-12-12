@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejemplo de tabla compleja</title>
+    <style>
+		* {
+		  box-sizing: border-box;
+		}
+		.img-container {
+          float: left;
+          width: 33.33%;
+          padding: 5px;
+        }
+
+        .clearfix::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+    </style>
+  </head>
+  <body>
+  <div class="clearfix">
+    <div class="img-container">
+      <img src="imagenes/img_chania.jpg" style="width:100%">
+    </div>
+    <div class="img-container">
+      <img src="imagenes/img_girl.jpg" style="width:100%">
+    </div>
+    <div class="img-container">
+      <img src="imagenes/pic_trulli.jpg" style="width:100%">
+    </div>
+  </div>
+</body>
+</html>
