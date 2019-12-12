@@ -14,6 +14,16 @@
  [Ejercicio 3](Tema2/Ejercicio3.html)  | Página web que usa etiquetas &lt;strong&gt; y &lt;br/&gt;.
  [Ejercicio 4](Tema2/Ejercicio4.html)  | Página web con caracteres especiales.
  [Ejercicio 5](Tema2/ejercicio5/misitio.com/index.html)  | Página web con enlances.
- [Ejercicio 6](Tema2/ejercicio6.html)  | Página web con enlances y pie de página.
- [Ejercicio 7](Tema2/ejercicio7.html)  | Página web con una lista anidada.
- [Ejercicio 8](Tema2/ejercicio8.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 6](Tema2/Ejercicio6.html)  | Página web con enlances y pie de página.
+ [Ejercicio 7](Tema2/Ejercicio7.html)  | Página web con una lista anidada.
+ [Ejercicio 8](Tema2/Ejercicio8.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 9](Tema2/Ejercicio9.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 10](Tema2/Ejercicio10.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 11](Tema2/Ejercicio11.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 12](Tema2/Ejercicio12.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 13](Tema2/Ejercicio13.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 14](Tema2/Ejercicio14.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 15](Tema2/Ejercicio15.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 16](Tema2/Ejercicio16.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 17](Tema2/Ejercicio17.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 18](Tema2/Ejercicio18.html)  | Página web con varias listas anidadas con diferentes estilos.
