@@ -17,13 +17,13 @@
  [Ejercicio 6](Tema2/Ejercicio6.html)  | Página web con enlances y pie de página.
  [Ejercicio 7](Tema2/Ejercicio7.html)  | Página web con una lista anidada.
  [Ejercicio 8](Tema2/Ejercicio8.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 9](Tema2/Ejercicio9.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 10](Tema2/Ejercicio10.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 11](Tema2/Ejercicio11.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 12](Tema2/Ejercicio12.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 13](Tema2/Ejercicio13.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 14](Tema2/Ejercicio14.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 15](Tema2/Ejercicio15.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 16](Tema2/Ejercicio16.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 17](Tema2/Ejercicio17.html)  | Página web con varias listas anidadas con diferentes estilos.
- [Ejercicio 18](Tema2/Ejercicio18.html)  | Página web con varias listas anidadas con diferentes estilos.
+ [Ejercicio 9](Tema2/Ejercicio9.html)  | Página web con diferentes fuentes y colores de fondo.
+ [Ejercicio 10](Tema2/Ejercicio10.html)  | Página web con bordes de distinto color y estilo.
+ [Ejercicio 11](Tema2/Ejercicio11.html)  | Página web usando archivo CSS con distintos estilos, margenes y relleno.
+ [Ejercicio 12](Tema2/Ejercicio12.html)  | Página web con una tabla simple.
+ [Ejercicio 13](Tema2/Ejercicio13.html)  | Página web con una tabla del calendario de clase.
+ [Ejercicio 14](Tema2/Ejercicio14.html)  | Página web con una tabla con imágenes.
+ [Ejercicio 15](Tema2/Ejercicio15.html)  | Página web con una tabla con imágenes usando rowspan y colspan.
+ [Ejercicio 16](Tema2/Ejercicio16.html)  | Página web con una imagen flotante a la izquierda y otra a la derecha sobre el texto.
+ [Ejercicio 17](Tema2/Ejercicio17.html)  | Página web con varias imágenes que escanalan según las dimensiones de la página.
+ [Ejercicio 18](Tema2/Ejercicio18.html)  | Página web con miniaturas.
