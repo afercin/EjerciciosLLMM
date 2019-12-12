@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ejemplo de tabla compleja</title>
+    <style>
+		* {
+		  box-sizing: border-box;
+		}
+		.img-container {
+          float: left;
+          width: 33.33%;
+          padding: 5px;
+        }
+
+        .clearfix::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+		
+		img {
+ 		  border: 1px solid #ddd; /* Gray border */
+ 		  border-radius: 4px;  /* Rounded border */
+		  padding: 5px; /* Some padding */
+		  width: 150px; /* Set a small width */
+		}
+
+		/* Add a hover effect (blue shadow) */
+		img:hover {
+ 		  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+		}
+    </style>
+  </head>
+  <body>
+  <div class="clearfix">
+    <div class="img-container">
+      <a href="imagenes/img_chania.jpg"><img src="imagenes/img_chania.jpg" style="width:100%"></a>
+    </div>
+    <div class="img-container">
+      <a href="imagenes/img_girl.jpg"><img src="imagenes/img_girl.jpg" style="width:100%"></a>
+    </div>
+    <div class="img-container">
+      <a href="imagenes/pic_trulli.jpg"><img src="imagenes/pic_trulli.jpg" style="width:100%"></a>
+    </div>
+  </div>
+</body>
+</html>
