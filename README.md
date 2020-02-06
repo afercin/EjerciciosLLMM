@@ -35,6 +35,7 @@
  [Ejercicio 24](Tema2/Ejercicio24.html)  | Página web con un párrafo modificado a través de su identificador con DOM.
  [Ejercicio 25](Tema2/Ejercicio25.html)  | Página web con el estilo de un párrafo modificado a través de su identificador con DOM.
  [Ejercicio 26](Tema2/Ejercicio26.html)  | Página web con el atributo src de un iframe modificado a través del DOM.
+ 
  Ejercicios CSS  | Descripción
 ------------- | ------------
  [Ejercicio 1 CSS](Tema2/CSSEjercicio1.html)  | Página web con información sobre un curriculum y editada a través de una hoja de estilo.
