@@ -7,7 +7,7 @@
  [Ejercicio 4](https://github.com/afercin/pruebaLLMM/blob/master/README.md)  | Documento .md con varias cabeceras, texto, una lista, un gráfico y una tabla.
 
 ## Tema 2
-  Ejercicios   | Descripción
+  Ejercicios HTML  | Descripción
 ------------- | ------------
  [Ejercicio 1](Tema2/Ejercicio1.html)  | Página web que usa etiquetas &lt;strong&gt; y &lt;cite&gt;.
  [Ejercicio 2](Tema2/Ejercicio2.html)  | Página web con varios niveles de cabeceras seguidas por un parrafo.
@@ -35,6 +35,8 @@
  [Ejercicio 24](Tema2/Ejercicio24.html)  | Página web con un párrafo modificado a través de su identificador con DOM.
  [Ejercicio 25](Tema2/Ejercicio25.html)  | Página web con el estilo de un párrafo modificado a través de su identificador con DOM.
  [Ejercicio 26](Tema2/Ejercicio26.html)  | Página web con el atributo src de un iframe modificado a través del DOM.
+ Ejercicios CSS  | Descripción
+------------- | ------------
  [Ejercicio 1 CSS](Tema2/CSSEjercicio1.html)  | Página web con información sobre un curriculum y editada a través de una hoja de estilo.
  [Ejercicio 2 CSS](Tema2/CSSEjercicio2.html)  | Página web con apariencia completamente diferente a la dada usando CSS.
  [Ejercicio 3 CSS](Tema2/CSSEjercicio3.html)  | Página web.
