@@ -28,3 +28,15 @@
  [Ejercicio 17](Tema2/Ejercicio17.html)  | Página web con varias imágenes que escanalan según las dimensiones de la página.
  [Ejercicio 18](Tema2/Ejercicio18.html)  | Página web con miniaturas.
  [Ejercicio 19](Tema2/Ejercicio19.html)  | Página web con iframes.
+ [Ejercicio 20](Tema2/Ejercicio20.html)  | Página web con formularios.
+ [Ejercicio 21](Tema2/Ejercicio21.html)  | Página web con formularios 2.
+ [Ejercicio 22](https://asir1-llmm-adrian.000webhostapp.com/zozor/)  | Página web alojada en [webhost](https://es.000webhost.com/).
+ [Ejercicio 23](Tema2/Ejercicio23.html)  | Página web con el título modificado a través del DOM.
+ [Ejercicio 24](Tema2/Ejercicio24.html)  | Página web con un párrafo modificado a través de su identificador con DOM.
+ [Ejercicio 25](Tema2/Ejercicio25.html)  | Página web con el estilo de un párrafo modificado a través de su identificador con DOM.
+ [Ejercicio 26](Tema2/Ejercicio26.html)  | Página web con el atributo src de un iframe modificado a través del DOM.
+ [Ejercicio 1 CSS](Tema2/CSSEjercicio1.html)  | Página web con información sobre un curriculum y editada a través de una hoja de estilo.
+ [Ejercicio 2 CSS](Tema2/CSSEjercicio2.html)  | Página web con apariencia completamente diferente a la dada usando CSS.
+ [Ejercicio 3 CSS](Tema2/CSSEjercicio3.html)  | Página web.
+ [Ejercicio 4 CSS](Tema2/CSSEjercicio4.html)  | Página web el estilo de una tabla modificado por CSS.
+ [Ejercicio 5 CSS](Tema2/CSSEjercicio5.html)  | Página web que contiene una tabla con diferentes colores RGB.
