@@ -1,0 +1,32 @@
+h1 {
+	font-family: "Georgia";
+	color: blue;
+	background-color: lightgray;
+	letter-spacing: 0.6em;
+	word-spacing: 2em;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: "Georgia";
+	color: darkred;
+	font-size: 18px;
+	letter-spacing: 0.4em;
+}
+
+#Years {
+	font-weight: bold;
+	float: left;
+	min-width: 15%;
+}
+
+#data {
+	float: right;
+	min-width: 85%;
+}
+
+#italic {
+	font-style: italic;
+}
