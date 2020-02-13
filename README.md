@@ -40,6 +40,6 @@
 ------------- | ------------
  [Ejercicio 1](Tema2/CSSEjercicio1.html)  | Página web con información sobre un curriculum y editada a través de una hoja de estilo.
  [Ejercicio 2](Tema2/CSSEjercicio2.html)  | Página web con apariencia completamente diferente a la dada usando CSS.
- [Ejercicio 3](Tema2/CSSEjercicio3.html)  | Página web.
+ [Ejercicio 3](Tema2/CSSEjercicio3.html)  | Página web con información sobre un curriculum que cambia al pulsar un botón.
  [Ejercicio 4](Tema2/CSSEjercicio4.html)  | Página web el estilo de una tabla modificado por CSS.
  [Ejercicio 5](Tema2/CSSEjercicio5.html)  | Página web que contiene una tabla con diferentes colores RGB.
