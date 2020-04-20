@@ -43,3 +43,11 @@
  [Ejercicio 3](Tema2/CSSEjercicio3.html)  | Página web con información sobre un curriculum que cambia al pulsar un botón.
  [Ejercicio 4](Tema2/CSSEjercicio4.html)  | Página web el estilo de una tabla modificado por CSS.
  [Ejercicio 5](Tema2/CSSEjercicio5.html)  | Página web que contiene una tabla con diferentes colores RGB.
+ 
+  Ejercicios DTD  | Descripción
+------------- | ------------
+ [Ejercicio 1](Tema3/Ej1.xml)  |
+ [Ejercicio 2](Tema3/Ej2.xml)  | 
+ [Ejercicio 3](Tema3/Ej3.xml)  | 
+ [Ejercicio 4](Tema3/Ej4.xml)  | 
+ [Ejercicio 5](Tema3/Ej5.xml)  | 
