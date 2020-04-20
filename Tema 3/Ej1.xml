@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE adress_book [
+<!ELEMENT adress_book (entry+)>
+<!ELEMENT entry (name, adress, telephone_number, email, age, marital_status)+>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT adress (#PCDATA)>
+<!ELEMENT telephone_number (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT marital_status (#PCDATA)>
+]>
+<adress_book>
+  <entry>
+    <name>Pepe</name>
+    <adress>Calle sin nombre 1</adress>
+    <telephone_number>644644644</telephone_number>
+    <email>pepe@example.net</email>
+    <age>24</age>
+    <marital_status>C</marital_status>
+  </entry>
+  <entry>
+    <name>Marta</name>
+    <adress>Calle falsa 123</adress>
+    <telephone_number>655444222</telephone_number>
+    <email>marta@example.net</email>
+    <age>31</age>
+    <marital_status>S</marital_status>
+  </entry>
+</adress_book>

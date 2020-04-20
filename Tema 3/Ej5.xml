@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER [
+<!ELEMENT NEWSPAPER (ARTICLE+)>
+  <!ELEMENT ARTICLE (HEADLINE,BYLINE,BODY,NOTES)>
+  <!ELEMENT HEADLINE (#PCDATA)>
+  <!ELEMENT BYLINE (#PCDATA)>
+  <!ELEMENT BODY (#PCDATA)>
+  <!ELEMENT NOTES (#PCDATA)>
+
+  <!ATTLIST ARTICLE AUTHOR CDATA #REQUIRED>
+  <!ATTLIST ARTICLE DATE CDATA #IMPLIED>
+
+  <!ENTITY NEWSPAPER "Vervet Logic Times">
+  <!ENTITY PUBLISHER "Vervet Logic Press">
+  <!ENTITY COPYRIGHT "Copyright 1998 Vervet Logic Press">
+]>
+<NEWSPAPER>
+  <ARTICLE AUTHOR="Francisco Morales" DATE="2019-12-28">
+    <HEADLINE>Estudios revelan que escuchar reggaeton acorta la esperanza de vida</HEADLINE>
+    <BYLINE>&COPYRIGHT;</BYLINE>
+    <BODY>Se ha realizado un estudio en la universidad de Míchigan que revelan un aterrador dato, escuchar reggaeton acorta la esperanza de vida.
+                  El estudio se ha realizado en las estaciones de tren que atraviesan la ciudad y se ha contavilizado un mayor número de accidentes (caidas, tropezones, empujones, etc) por ir escuchando música sin prestar atencion al entorno por parte de personas que escuchaban este tipo de "música".
+                  Por lo que este sector de la población es el más vulnerable a la hora de sufrir accidentes y posiblemente accidentes graves o incluso mortales ya sea por negligencia propia o por las represalias del resto de usuarios que los rodean por tener que escuchar ese ruido..</BODY>
+    <NOTES>El estudio es falso, pero aun así ponte auriculares siempre, nadie tiene porque escuchar tu música, gracias.</NOTES>
+ </ARTICLE>
+</NEWSPAPER>

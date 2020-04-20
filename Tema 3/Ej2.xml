@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE adress_book [
+<!ELEMENT adress_book (entry+)>
+  <!ELEMENT entry (firstname, lastname, adress, telephone_number, email+, company)+>
+	<!ELEMENT firstname (#PCDATA)>
+	<!ELEMENT lastname (#PCDATA)>
+	<!ELEMENT adress (street, no, zip, country)>
+	  <!ELEMENT street (#PCDATA)>
+	  <!ELEMENT no (#PCDATA)>
+	  <!ELEMENT zip (#PCDATA)>
+	  <!ELEMENT country (#PCDATA)>
+	<!ELEMENT telephone_number (#PCDATA)>
+	<!ELEMENT email (#PCDATA)>
+	<!ELEMENT company (company_name, URL)>
+	  <!ELEMENT company_name (#PCDATA)>
+	  <!ELEMENT URL (#PCDATA)>
+]>
+<adress_book>
+  <entry>
+    <firstname>Pepe</firstname>
+	  <lastname>Perez</lastname>
+    <adress>
+	  <street>Calle sin nombre</street>
+	  <no>52</no>
+	  <zip>21005</zip>
+	  <country>Spain</country>
+	</adress>
+    <telephone_number>644644644</telephone_number>
+    <email>pepe@example.net</email>
+	<company>
+	  <company_name>Pepephone</company_name>
+	  <URL>www.pepephone.com</URL>
+	</company>
+  </entry>
+  <entry>
+    <firstname>Marta</firstname>
+	  <lastname>Dominguez</lastname>
+    <adress>
+	  <street>Calle falsa</street>
+	  <no>123</no>
+	  <zip>21002</zip>
+	  <country>Spain</country>
+	</adress>
+    <telephone_number>655444222</telephone_number>
+    <email>marta@example.net</email>
+    <email>marta_domingez67@gmail.com</email>
+	<company>
+	  <company_name>Don Cammillo Peppone</company_name>
+	  <URL>www.doncep.com</URL>
+  </company>
+  </entry>
+</adress_book>
